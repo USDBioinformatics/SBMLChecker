@@ -1,0 +1,130 @@
+It has not valid semantic  
+
+Score is 0.7750869349230004
+Compartment 
+
+ Final score for compartment is 1.0
+
+ID 	 Name 	obo	
+blood	blood	1	
+cytosol	cytosol	1	
+mito	mitochondrion	1	
+cell	cell	1	
+	 Compartment score : 1.0	
+ Species 
+
+ Final score for species is 0.9318181818181818
+
+ID 	 Name 	kegg	pubchem	obo	
+b_met	b_Met	1	0	1	
+b_ser	b_Ser	1	0	1	
+GAR	GAR	1	0	1	
+NADPH	NADPH	1	0	1	
+BET	Betaine	1	0	1	
+DUMP	dUMP	1	0	1	
+Fol	Folate	1	0	1	
+H2O2	H2O2	1	0	1	
+CO	CO2	1	0	1	
+HCHO	Formaldehyde	1	0	1	
+c_thf	c_THF	1	0	1	
+m_thf	m_THF	1	0	1	
+c_5mf	c_5-methyl-THF	1	0	1	
+c_2cf	c_5-10-methylene-THF	1	0	1	
+c_1cf	c_5-10-methenyl-THF	0	1	0	
+c_10f	c_10-formyl-THF	1	0	1	
+c_dhf	c_DHF	1	0	1	
+m_2cf	m_5-10-methylene-THF	1	0	1	
+m_1cf	m_5-10-methenyl-THF	0	1	0	
+m_10f	m_10-formyl-THF	1	0	1	
+b_gly	b_Glycine	1	0	1	
+b_glu	b_Glutamate	1	0	1	
+b_cys	b_Cysteine	1	0	1	
+b_gsg	b_GSSG	1	0	1	
+b_gsh	b_GSH	1	0	1	
+aic	AICAR	1	0	1	
+c_glu	c_Glutamate	1	0	1	
+c_cys	c_Cysteine	1	0	1	
+glc	Glutamyl-Cysteine	1	0	1	
+c_gly	c_Glycine	1	0	1	
+c_gsg	c_GSSG	1	0	1	
+c_gsh	c_GSH	1	0	1	
+cyt	Cystathione	0	1	0	
+hcy	Homocysteine	1	0	1	
+c_ser	c_Serine	1	0	1	
+sah	S-adenosylhomocysteine	1	0	1	
+sam	S-adenosylmethionine	1	0	1	
+met	c_Methionine	1	0	1	
+c_coo	c_formate	1	0	1	
+m_ser	m_Serine	1	0	1	
+m_gly	m_Glycine	1	0	1	
+m_coo	m_Formate	1	0	1	
+src	Sarcosine	1	0	1	
+dmg	Dimethylglycine	1	0	1	
+	 Species score : 0.9318181818181818	0.06818181818181818	0.9318181818181818	
+Reaction 
+
+ Final score for reaction is 0.39344262295081966
+
+ID 	 Name 	kegg	obo	
+b_gsh_decomp	b_gsh_decomp	0	1	
+b_gsg_decomp	b_gsg_decomp	0	1	
+b_cys_cystine_conv	b_cys_cystine_conv	0	1	
+b_cys_loss	b_cys_loss	0	1	
+b_glu_loss	b_glu_loss	0	1	
+b_gly_loss	b_gly_loss	0	1	
+b_gsh_loss	b_gsh_loss	0	1	
+b_gsg_loss	b_gsg_loss	0	1	
+b_cys_import	b_cys_import	0	1	
+b_gly_import	b_gly_import	0	1	
+b_glu_import	b_glu_import	0	1	
+V_c_gshHb	V_c_gshHb	0	1	
+V_c_gshLb	V_c_gshLb	0	1	
+V_c_gsgHb	V_c_gsgHb	0	1	
+V_c_gsgLb	V_c_gsgLb	0	1	
+V_b_CYS_c	V_b_CYS_c	0	1	
+V_b_GLU_c	V_b_GLU_c	0	1	
+V_b_GLY_c	V_b_GLY_c	0	1	
+V_b_SER_c	V_b_SER_c	0	1	
+V_b_MET_c	V_b_MET_c	0	1	
+VmFTD	VmFTD	1	0	
+VmSHMT	VmSHMT	1	0	
+VmFTS	VmFTS	1	0	
+VmNE	VmNE	1	0	
+V_GDC	V_GDC	0	0	
+V_SDH	V_SDH	0	0	
+V_DMGD	V_DMGD	0	0	
+VmMTD	VmMTD	0	0	
+VmMTCH	VmMTCH	0	0	
+VmSERc	VmSERc	0	0	
+VmHCOOHc	VmHCOOHc	0	0	
+VmGLYc	VmGLYc	0	0	
+V_MS	V_MS	0	0	
+V_DHFR	V_DHFR	0	0	
+VcFTD	VcFTD	0	0	
+V_PGT	V_PGT	0	0	
+VcFTS	VcFTS	0	0	
+VcSHMT	VcSHMT	0	0	
+VcNE	VcNE	0	0	
+V_TS	V_TS	1	0	
+V_MTHFR	V_MTHFR	1	0	
+VcMTD	VcMTD	1	0	
+VcMTCH	VcMTCH	1	0	
+V_ART	V_ART	1	0	
+V_BHMT	V_BHMT	1	0	
+V_MATI	V_MATI	1	0	
+V_MATIII	V_MATIII	1	0	
+V_GNMT	V_GNMT	1	0	
+V_DNMT	V_DNMT	1	0	
+V_SAHH	V_SAHH	1	0	
+gluconeogenesis_ser	gluconeogenesis_ser	1	0	
+V_CBS	V_CBS	1	0	
+V_CTGL	V_CTGL	1	0	
+V_GCS	V_GCS	1	0	
+cys_usage	cys_usage	0	1	
+c_glu_usage	c_glu_usage	0	1	
+V_GS	V_GS	1	0	
+V_GPX	V_GPX	1	0	
+V_GR	V_GR	1	0	
+c_gsh_degr	c_gsh_degr	0	1	
+c_gsg_degr	c_gsg_degr	0	1	
+	 Reaction score : 0.36065573770491804	0.39344262295081966	

@@ -1,0 +1,9 @@
+[15:21:45,353 ERROR SBMLValidator:508] - There has been an error parsing the consistency check XML result : package : package : package : package
+---- Debugging information ----
+message             : package : package
+cause-exception     : com.thoughtworks.xstream.mapper.CannotResolveClassException
+cause-message       : package : package
+class               : org.sbml.jsbml.SBMLErrorLog
+required-type       : org.sbml.jsbml.SBMLError
+path                : /validation-results/problem/package
+-------------------------------
